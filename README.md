@@ -21,3 +21,10 @@ Pham Nhat Minh
 
 ## 5. Status
 Currently learning Git and GitHub.
+
+## 6. What I Learned
+
+- How to create a repository.
+- How to clone a repository.
+- How to commit and push changes.
+- How to work with branches.
